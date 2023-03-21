@@ -7,11 +7,13 @@ body {
 }
 
 .container {
-    background: white;
+    background: black;
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
+    align-items:center;
+    
 }
 
 h1 {
